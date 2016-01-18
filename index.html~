@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet'>
+		<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<title>Arcade Games</title>
+	</head>	
+	<body>
+		<div class="container">
+			<div class="row dropshadow">
+				<div class="col-md-12">
+					<h1>Classic Arcade Clones</h1>
+				</div>
+			</div>
+			<div class="row text-center dropshadow">
+				<div class="col-md-6">
+					<img class="img-responsive" src="img/frogger.jpg" alt="Snapshot of my Frogger Clone">
+					<h3>Frogger Clone</h3>
+					<p><a href="http://znalbert.github.io/fend_p3/">Link to project</a></p>
+				</div>
+				<div class="col-md-6">
+					<img class="img-responsive" src="img/asteroids.jpg" alt="Snapshot of my Asteroids clone">
+					<h3>Asteroids Clone</h3>
+					<p><a href="http://www.codeskulptor.org/#user40_N61SJbXs3w_15.py">Link to project</a></p>
+				</div>
+			</div>
+			<div class="row text-center dropshadow">
+				<div class="col-md-6">
+					<img class="img-responsive" src="img/blackjack.jpg" alt="A pic of my Blackjack game">
+					<h3>Blackjack</h3>
+					<p><a href="http://www.codeskulptor.org/#user40_2LHNvJJRAp_8.py">Link to project</a></p>
+				</div>
+				<div class="col-md-6">
+					<img class="img-responsive" src="img/pong.jpg" alt="Snapshot of my Pong clone">
+					<h3>Pong Clone</h3>
+					<p><a href="http://www.codeskulptor.org/#user40_5xrrUhDm5H_0.py">Link to project</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	</body>
+</html>
